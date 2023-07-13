@@ -14,7 +14,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Notes_Site/
+    https://prasannad02.github.io/Notes-app/
     
 ## Getting Started
 
